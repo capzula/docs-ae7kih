@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-b5emdp.pulaucuan.com/sitemap.xml
